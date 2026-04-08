@@ -1,29 +1,24 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Thilageeswari</h1>
-<h3 align="center">AI/ML Engineer | GenAI Backend Developer | Scalable AI Systems</h3>
+<h3 align="center">AI/ML Engineer | GenAI Backend Developer | Building Scalable AI Systems</h3>
 
-<!-- PROFESSIONAL TYPING ANIMATION -->
+<!-- SUBTLE TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=500&lines=AI+%2B+ML+Engineer;GenAI+%7C+LLMs+%7C+RAG;Backend+Developer+(Flask+%2F+FastAPI);Building+Production-Ready+AI+Systems" />
-</p>
-
----
-
-<!-- SUBTLE CODING ANIMATION -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A66C2&center=true&vCenter=true&width=500&lines=AI+%2B+ML+Engineer;GenAI+%7C+LLMs+%7C+RAG;Backend+Developer+(Flask+%2F+FastAPI);Production-Ready+AI+Systems" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="coding" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 🔭 Working as **GenAI Backend Developer**
-- 🤖 Building **AI-powered platforms with real-world usage**
+- 🤖 Building **AI-powered platforms using NLP, LLMs, and RAG**
 - ⚙️ Strong in **Flask, FastAPI, Microservices Architecture**
-- 🧠 Specialized in **NLP, RAG, LLM-based systems**
-- 👁️ Experience in **OCR / OMR / Computer Vision**
-- ⚡ Focused on **scalable and production-ready AI systems**
+- 🧠 Experienced in **Machine Learning, Deep Learning**
+- 👁️ Worked on **Computer Vision (OCR / OMR)**
+- ⚡ Focused on **scalable, production-level AI systems**
 
 ---
 
@@ -61,27 +56,27 @@
 
 ## 🚀 What I Build
 
-- 🔹 AI-powered systems with automated evaluation  
-- 🔹 RAG-based LLM applications  
+- 🔹 AI-powered platforms with automated evaluation  
+- 🔹 RAG-based LLM systems for intelligent Q&A  
 - 🔹 Scalable backend systems using microservices  
-- 🔹 Real-time data pipelines using Kafka  
-- 🔹 Secure API & subscription-based platforms  
+- 🔹 Real-time pipelines using Kafka  
+- 🔹 Secure authentication & payment integrations  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thilageeswariguruviah&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thilageeswariguruviah&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thilageeswariguruviah&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thilageeswariguruviah&theme=default" />
 </p>
 
 ---
 
 ## 🏆 Highlights
 
-- ✅ Built **production-level AI platforms**
-- ✅ Implemented **RAG pipelines with LLMs**
+- ✅ Built **production-level AI systems**
+- ✅ Implemented **LLM + RAG pipelines**
 - ✅ Designed **microservice architectures**
 - ✅ Integrated **payment & subscription systems**
 - ✅ Worked with **Kafka & Airflow pipelines**
@@ -92,14 +87,12 @@
 
 <p align="center">
   <a href="mailto:g.thilageeswari2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail">
   </a>
   <a href="https://linkedin.com/in/thilageeswari-g-756664216/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
   </a>
   <a href="https://github.com/thilageeswariguruviah">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github">
   </a>
 </p>
-
----
