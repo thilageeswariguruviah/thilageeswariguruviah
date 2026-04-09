@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Animated gradient banner with AI theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Thilageeswari%20G&fontSize=70&color=gradient&customColorList=12,14,18,20,24&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20GenAI%20Backend%20Developer%20%7C%20Building%20Scalable%20AI%20Systems&descAlignY=55&descSize=20" width="100%"/>
+<!-- Animated gradient banner matching profile colors - Cyan/Turquoise theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Thilageeswari%20G&fontSize=70&color=0:00CED1,50:00D9FF,100:40E0D0&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20GenAI%20Backend%20Developer%20%7C%20Building%20Scalable%20AI%20Systems&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- Animated typing with role-specific content -->
+<!-- Animated typing with cyan color matching your profile -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Hey+%F0%9F%91%8B+I'm+Thilageeswari!;AI%2FML+Engineer+%7C+GenAI+Backend+Developer;Building+Production-Ready+AI+Systems+%F0%9F%A4%96;LLMs+%7C+RAG+%7C+NLP+%7C+Computer+Vision;Flask+%7C+FastAPI+%7C+Microservices+%E2%9A%A1;Transforming+Ideas+into+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -197,8 +197,8 @@ class AIEngineer:
 
 ---
 
-<!-- Animated footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,14,18,20,24&section=footer" width="100%"/>
+<!-- Animated footer wave matching cyan theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:40E0D0,50:00D9FF,100:00CED1&section=footer" width="100%"/>
 
 <div align="center">
 
